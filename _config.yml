@@ -2,13 +2,13 @@ url: https://alfieindesigns.github.io
 baseurl: ""
 
 # Site settings
-title: Alfie Nollon
+title: Alfie Nollora
 email: alfiellon@gmail.com
 description: "Alfie Nollora - Lead Shopify Developer / Senior Frontend Developer"
 
 # Team names, titles and social links
 people:
-- name: Alfie Nollon
+- name: Alfie Nollora
   pic: 1
   position: Lead Shopify Developer / Senior Frontend Developer
   social:
@@ -44,15 +44,11 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://x.com/alfieindesigns
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/alfieindesigns
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/alfieindesigns
 
 # Postal address (add as many lines as necessary)
 address:
