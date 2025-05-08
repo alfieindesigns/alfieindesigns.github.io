@@ -2,9 +2,9 @@ url: https://alfieindesigns.github.io
 baseurl: ""
 
 # Site settings
-title: Alfie Nollora
+title: alfieindesigns
 email: alfiellon@gmail.com
-description: "Alfie Nollora - Lead Shopify Developer / Senior Frontend Developer"
+description: "alfieindesigns - Lead Shopify Developer / Senior Frontend Developer"
 
 # Team names, titles and social links
 people:
@@ -19,26 +19,26 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Alfie Nollora
   pic: 2
-  position: Lead Marketer
+  position: Lead Shopify Developer / Senior Frontend Developer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: stack-overflow
       url: #
 
-- name: Diana Petersen
+- name: Alfie Nollora
   pic: 3
-  position: Lead Developer
+  position: Lead Shopify Developer / Senior Frontend Developer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: stack-overflow
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
