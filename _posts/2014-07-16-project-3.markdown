@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: EcoFLow Germany
+subtitle: Custom Features
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: ecoflow-germany.png
+thumbnail: ecoflow-germany.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2023
+client: EcoFLow Germany
+category: Shopify Custom Features
+description: Developed custom features for EcoFlow Germany’s Shopify store, including a tailored "DIY" product configuration experience based on the merchant’s request. The feature is divided into two tabs—Bundle and Customization—each presenting product options that are individual items. When selected, these options are added to the cart as separate products, providing customers with a seamless way to build either a bundled set or a fully customized solution. Following its launch, the merchant reported approximately €1 million in revenue on the first day. Tech Stack (Storefront API, GraphQL, AlpineJS, Liquid, JavaScript, CSS)
 
 ---

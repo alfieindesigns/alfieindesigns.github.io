@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Namastay
+subtitle: Shopify Development
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: namastay.png
+thumbnail: namastay.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2025
+client: Namastay
+category: Shopify Development
+description: Led a Shopify store revamp project from design assessment to launch. The merchant initially provided their own design, but upon review, I identified several layout issues from an e-commerce usability perspective. I proposed improvements aligned with best practices, which the client approved. I then handled the end-to-end development of key storefront pages—including the homepage, product page, collection page, cart page, and more—to ensure the store was fully optimized and ready for customer engagement.
 
 ---
