@@ -10,6 +10,11 @@ alt: image-alt
 project-date: November 2024
 client: Yvette®
 category: Shopify Custom Features
+tags:
+  - Metafields
+  - Liquid
+  - JavaScript
+  - CSS
 description: Developed custom features for Yvette®’s Shopify store, including a tailored “Colour Collection Group” functionality. Each color variant links to a separate product page—something not natively supported by Shopify. This was achieved by dynamically fetching data via the collection and rendering it within the product’s color selection section. Tech Stack (Shopify Product Metafields, Liquid, JavaScript, CSS)
 
 ---

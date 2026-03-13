@@ -10,6 +10,10 @@ alt: image-alt
 project-date: February 2025
 client: Namastay
 category: Shopify Development
+tags:
+  - Theme Development
+  - Full Build
+  - UX Design
 description: Led a Shopify store revamp project from design assessment to launch. The merchant initially provided their own design, but upon review, I identified several layout issues from an e-commerce usability perspective. I proposed improvements aligned with best practices, which the client approved. I then handled the end-to-end development of key storefront pages—including the homepage, product page, collection page, cart page, and more—to ensure the store was fully optimized and ready for customer engagement.
 
 ---
